@@ -198,7 +198,7 @@ FFMPEG_AUDIO_DEMUXERS:= \
 	wv \
 
 FFMPEG_AUDIO_PROTOCOLS:= \
-	file http icecast rtp tcp udp
+	file fd http icecast rtp tcp udp
 
 FFMPEG_PATENTED_DECODERS:= \
 	atrac3 \
